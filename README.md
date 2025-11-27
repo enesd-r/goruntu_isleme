@@ -1,1 +1,2 @@
-# goruntu_isleme
+# OpenCV and YOLO projects
+
